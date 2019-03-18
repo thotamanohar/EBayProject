@@ -2,6 +2,8 @@
 
 Firstly, suspend your disbelief. This is a little contrived ;)
 
+1. Thank you.
+
 We (your team) have been tasked with generating more traffic to our deals page. We have had an idea that we could include a playable game in adverts on third-party sites. Completing the game successfully would allow the user to click through to a special deals page. For example we might advertise on a football related site, and offer a ‘special lowest price’ deal on a games console bundled with a popular football game. Our hypothesis is that by enticing the user to spend a few minutes playing the game, they’ll feel a sense of engagement and be more likely to purchase from the deals page.
 
 Rather than build something from scratch, we have investigated if there are any off the shelf solutions for this and have found an open-source sudoku game that provides game functionality over an HTTP interface. If you are not familiar with the game of sudoku you can have a look here: https://en.wikipedia.org/wiki/Sudoku.
